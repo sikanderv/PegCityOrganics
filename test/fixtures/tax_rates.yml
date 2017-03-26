@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  rate: 9.99
+  country_ids: MyText
+
+two:
+  name: MyString
+  rate: 9.99
+  country_ids: MyText

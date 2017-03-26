@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  code: MyString
+  default: false
+  active: false
+  courier: MyString
+  tracking_url: MyString
+
+two:
+  name: MyString
+  code: MyString
+  default: false
+  active: false
+  courier: MyString
+  tracking_url: MyString

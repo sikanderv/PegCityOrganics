@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  delivery_service_id: 1
+  code: MyString
+  price: 9.99
+  cost_price: 9.99
+  tax_rate_id: 1
+  min_weight: 9.99
+  max_weight: 9.99
+  country_ids: MyText
+
+two:
+  delivery_service_id: 1
+  code: MyString
+  price: 9.99
+  cost_price: 9.99
+  tax_rate_id: 1
+  min_weight: 9.99
+  max_weight: 9.99
+  country_ids: MyText

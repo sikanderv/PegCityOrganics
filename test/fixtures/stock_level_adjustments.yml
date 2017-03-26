@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_id: 1
+  item_type: MyString
+  description: MyText
+  adjustment_type: 1
+  parent_type: MyString
+  parent_id: 1
+
+two:
+  item_id: 1
+  item_type: MyString
+  description: MyText
+  adjustment_type: 1
+  parent_type: MyString
+  parent_id: 1
