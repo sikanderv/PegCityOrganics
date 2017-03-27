@@ -14,5 +14,4 @@ class OrderItem < ApplicationRecord
   # validate do
   #   errors.add :quantity, :too_high_quanity unless in_stock?
   # end
-  end
 end
