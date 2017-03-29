@@ -18,15 +18,14 @@ ActiveAdmin.register Product do
     column "Image" do |product|
         image_tag product.image
     end
-    # actions
-  end
-#
-# or
-#
-# permit_params do
-#   permitted = [:permitted, :attributes]
-#   permitted << :other if params[:action] == 'create' && current_user.admin?
-#   permitted
-# end
 
+  end
+
+  # actions
+
+  # permit_params do
+  #   permitted = [:permitted, :attributes]
+  #   permitted << :other if params[:action] == 'create' && current_user.admin?
+  #   permitted
+  # end
 end

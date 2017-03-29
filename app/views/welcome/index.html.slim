@@ -1,0 +1,7 @@
+= render '/partials/header'
+/ h1 Browse Store
+/ li
+/   ul = link_to 'New Customer', new_admin_customer_path
+/   ul = link_to 'Missing Email', missing_email_path
+/   ul = link_to 'Alphabetized', alphabetized_path
+/ = render partial: '/customers/customer', collection: @customers
